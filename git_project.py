@@ -1,2 +1,2 @@
 print("hello world");
-element = int(input("please"))
+element = int(input("please enter number"))
